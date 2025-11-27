@@ -1,5 +1,3 @@
-# Ethical-Hacking-Reconnaissance-Footprinting-Scanning
-
 # Ethical Hacking: Reconnaissance, Footprinting & Scanning
 Target: securedefense.ch
 
